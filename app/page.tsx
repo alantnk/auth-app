@@ -31,7 +31,7 @@ export default function Home() {
 			</div>
 
 			<div className="text-xs text-white hover:text-blue-200">
-				<Link href="https://github.com/alant4k/auth-app" target="_blank">
+				<Link href="https://github.com/alantnk/auth-app" target="_blank">
 					<FaBriefcase />
 				</Link>
 			</div>
